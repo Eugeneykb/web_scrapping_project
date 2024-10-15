@@ -255,7 +255,7 @@ class Load:
         s3.put_object(Bucket=bucket_name, Key=s3_file_key2, Body=csv_buffer2.getvalue())
         print("Bedrooms_dataframe.CSV uploaded successfully to S3!")
 
-# This is Precious making a change in Eugene#s branch
+# This is Precious making a change in Eugene#s branch and pushing to main branch
         
 accept_cookiesxpath = '//*[@id="onetrust-accept-btn-handler"]'
 bot = Extract()
